@@ -19,3 +19,5 @@ array
 
 
 end
+
+hi = {suite_e: "Crumpet the Elf"}
